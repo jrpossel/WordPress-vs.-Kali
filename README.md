@@ -23,7 +23,8 @@ Vulnerability #2: __________________
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: UserName Enumberation 
+>When the class "failure" is called the "Log in was unsuccessful" is bolded, however in green when the username does not exist then a class "failed" is called which does not bold the message.
 
 Vulnerability #2: __________________
 
