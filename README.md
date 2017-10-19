@@ -33,7 +33,7 @@ Vulnerability #2: __________________
 
 Vulnerability #1: Insecure Direct Object Reference
 >Looking at the URL of a sales person:
->>https://35.192.92.97/red/public/salesperson.php?id=1
+`https://35.192.92.97/red/public/salesperson.php?id=1`
 The ID is able to be changed and when changed to 10 displays the page for a sales person who is not yet publlic.
 
 Vulnerability #2: __________________
